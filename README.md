@@ -88,5 +88,5 @@ ocr-document-parser/
 
 Note: We save parsed outputs as JSON because JSON stores structured key/value pairs (like "Name": "RAVI KUMAR"), is human-readable, and easily consumed by other tools and APIs.
 
-#Thank you
+# Thank you
    
