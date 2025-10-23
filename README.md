@@ -42,6 +42,7 @@ ocr-document-parser/
 
 │ └── resume.jpg
 │
+
 ├── outputs/ # JSON files generated after running OCR
 
 │ ├── handwritten_result.json
