@@ -40,8 +40,11 @@ ocr-document-parser/
 ├── outputs/ # JSON files generated after running OCR
 
 │ ├── handwritten_result.json
+
 │ ├── pan_card_result.json
+
 │ └── resume_result.json
+
 │
 └── .venv/ # Virtual environment (ignored by Git)
 
@@ -63,4 +66,6 @@ ocr-document-parser/
    ```bash
    CTRL + C
    ```
+
+Note: We save parsed outputs as JSON because JSON stores structured key/value pairs (like "Name": "RAVI KUMAR"), is human-readable, and easily consumed by other tools and APIs.
    
