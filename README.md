@@ -1,2 +1,2 @@
 # OCR_Document-parser
-Smart OCR application built with Tesseract and Streamlit that extracts structured data from Inputs
+End-to-end OCR pipeline using Tesseract OCR and Python to parse text, detect document type, and extract key fields with a Streamlit interface.
