@@ -54,6 +54,8 @@ ocr-document-parser/
 │
 └── .venv/ # Virtual environment (ignored by Git)
 
+---
+
 1. Install Python 3.8+ and Tesseract OCR 
 2. Clone or download this repo
    ```bash
