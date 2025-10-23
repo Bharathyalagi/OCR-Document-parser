@@ -1,0 +1,18 @@
+# Python cache and environments
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Virtual envs
+.venv/
+env/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# outputs and large files (we keep sample outputs only)
+outputs/
+sample_docs/
